@@ -1,10 +1,14 @@
+https://jwlaiho.expressions.syr.edu/  |physics
 
+https://math.libretexts.org/Bookshelves  
 
-https://math.libretexts.org/Bookshelves
+https://learn.saylor.org/ |free place to learn anysubject
+
+https://openstax.org/  |free take
 
 https://openstax.org/subjects/math
 
-https://roadmap.sh cpp dsa
+https://roadmap.sh |cpp dsa
 
 https://physicslab.app/
 
