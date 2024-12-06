@@ -1,6 +1,6 @@
 https://jwlaiho.expressions.syr.edu/  |physics
 
-https://libretexts.org/platforms/libraries/
+https://libretexts.org/platforms/libraries/  |all subjects
 
 https://math.libretexts.org/Bookshelves  
 
