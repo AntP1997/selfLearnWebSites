@@ -1,5 +1,7 @@
 https://jwlaiho.expressions.syr.edu/  |physics
 
+https://libretexts.org/platforms/libraries/
+
 https://math.libretexts.org/Bookshelves  
 
 https://learn.saylor.org/ |free place to learn anysubject
