@@ -1,2 +1,20 @@
+
+
+https://math.libretexts.org/Bookshelves
+
+https://openstax.org/subjects/math
+
+https://roadmap.sh cpp dsa
+
+https://physicslab.app/
+
+https://greenemath.com/
+
+needcode.io
+
+udemy DSA cpp
+
+codechef.com
+https://physicslab.app/courses
 # selfLearnWebSites
 self learn any subject at your own pace
