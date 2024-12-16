@@ -1,5 +1,5 @@
  # physics
-https://jwlaiho.expressions.syr.edu/ 
+[https://jwlaiho.expressions.syr.edu/] 
 #  all subjects
 https://libretexts.org/platforms/libraries/ 
 
