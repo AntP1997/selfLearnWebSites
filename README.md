@@ -1,29 +1,43 @@
-[https://jwlaiho.expressions.syr.edu/  |physics
+ # physics
+https://jwlaiho.expressions.syr.edu/ 
+#  all subjects
+https://libretexts.org/platforms/libraries/ 
 
-https://libretexts.org/platforms/libraries/  |all subjects
+# math books
 
 https://math.libretexts.org/Bookshelves  
 
-https://learn.saylor.org/ |free place to learn anysubject
+# free place to learn anysubject
+https://learn.saylor.org/ 
 
-https://openstax.org/  |free take
+# free take
+https://openstax.org/  
 
+# math books
 https://openstax.org/subjects/math
 
-https://roadmap.sh |cpp dsa
+# road maps
+https://roadmap.sh 
 
+# learn physics basics
 https://physicslab.app/
 
+# learn highschool and college algebra MATH
 https://greenemath.com/
 
+# learn algorithms and data structure
 needcode.io
 
 udemy DSA cpp
 
 codechef.com
+
 https://physicslab.app/courses
-# selfLearnWebSites
+
+# WebSites to use for self Study
+
 self learn any subject at your own pace
+
 ](https://math.libretexts.org/Bookshelves
 
 https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011 | Kotlin Bootcamp for Programmers
