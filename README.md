@@ -4,7 +4,7 @@
 
 # ethical hacking
 http://www.catb.org/jargon/html/H/hacker.html
-
+http://www.catb.org/jargon/html/
  [website] (https://jwlaiho.expressions.syr.edu) | 
 # webdevlopment-playground
  https://developer.mozilla.org/en-US/
