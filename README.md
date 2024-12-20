@@ -1,6 +1,10 @@
 # physics
  website |
  :-- | :--: |
+
+# ethical hacking
+http://www.catb.org/jargon/html/H/hacker.html
+
  [website] (https://jwlaiho.expressions.syr.edu) | 
 # webdevlopment-playground
  https://developer.mozilla.org/en-US/
