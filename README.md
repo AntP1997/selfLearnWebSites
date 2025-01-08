@@ -1,6 +1,8 @@
 # physics
  website |
  :-- | :--: |
+# Business
+https://www.luthermaddy.com/IntroToBusiness.php
 
 # ethical hacking
 http://www.catb.org/jargon/html/H/hacker.html
