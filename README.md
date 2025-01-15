@@ -1,3 +1,10 @@
+# Computer science wiki
+
+https://computersciencewiki.org/index.php/Welcome
+
+# Computer science for begineers
+https://www.advanced-ict.info/
+
 # physics
  website |
  :-- | :--: |
