@@ -1,7 +1,7 @@
 # Computer science visual algorithm and data struture
  
  https://visualgo.net/en
-
+---------------------------------
  https://csvistool.com/
 
 # Computer science wiki
@@ -9,11 +9,17 @@
 https://computersciencewiki.org/index.php/Welcome
 
 # Computer science for begineers
+
 https://www.advanced-ict.info/
 
 # physics
- website |
- :-- | :--: |
+ 
+ https://www.myphysicslab.com/
+ ----------------------------------
+ https://www.physicslab.org/
+ ----------------------------------
+ https://physicslab.app/p/physics-1
+ 
 # Business
 https://www.luthermaddy.com/IntroToBusiness.php
 
