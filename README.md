@@ -151,6 +151,7 @@ https://csprimer.com/how/ |compter science topics
 https://physicslab.app/ // learn physics
 
 https://greenemath.com/
+--
 
 https://www.youtube.com/watch?v=Zu5JcxZt_f8&list=PLxNPSjHT5qvsGKsAhirvZn7W73pXhXpfv |c++ parallel c++ programming 
 
