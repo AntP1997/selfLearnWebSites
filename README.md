@@ -3,39 +3,44 @@
  https://visualgo.net/en
 ---------------------------------
  https://csvistool.com/
+---------------------------------
 
 # Computer science wiki
 
 https://computersciencewiki.org/index.php/Welcome
-
+-------------------------------------------------
 # Computer science for begineers
 
 https://www.advanced-ict.info/
-
+------------------------------
 # physics
  
  https://www.myphysicslab.com/
- ----------------------------------
+ -----------------------------
  https://www.physicslab.org/
- ----------------------------------
+ ---------------------------
  https://physicslab.app/p/physics-1
- 
+ ----------------------------------
 # Business
 https://www.luthermaddy.com/IntroToBusiness.php
-
+-----------------------------------------------
 # ethical hacking
 http://www.catb.org/jargon/html/H/hacker.html
+--------------------------------------------
 http://www.catb.org/jargon/html/
- [website] (https://jwlaiho.expressions.syr.edu) | 
+----
+https://jwlaiho.expressions.syr.edu) | 
+---
 # webdevlopment-playground
  https://developer.mozilla.org/en-US/
-#  all subjects
+---
+# all subjects
 https://libretexts.org/platforms/libraries/ 
-
+--
 # Read Me 
 
 https://www.makeareadme.com/
-
+----
 # math books
 
 https://math.libretexts.org/Bookshelves  
@@ -106,6 +111,7 @@ https://libretexts.org/platforms/libraries/  | Free college learning resouces
 https://www.coursera.org/learn/software-engineering-implementation-and-testing#modules  | Software Engineering: Implementation and Testing
 
 greenemath.com | math courses
+------
 
 https://www.coursera.org/courses?query=software engineering | Software engineering
 
