@@ -38,6 +38,20 @@ https://www.makeareadme.com/
 
 # math books
 
+https://www.mymathsguy.com
+
+
+https://www.virtualnerd.com
+
+
+https://www.onlinemathlearning.com
+
+
+https://www.proprep.com/
+
+
+https://www.pearson.com/channels
+
 https://math.libretexts.org/Bookshelves  
 
 # free place to learn anysubject
