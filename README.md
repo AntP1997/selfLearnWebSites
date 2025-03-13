@@ -8,6 +8,15 @@
 
 https://computersciencewiki.org/index.php/Welcome
 
+# Technical analysis
+https://www.coursera.org/courses?query=trading
+https://academy.avatrade.com/
+https://www.tradingpedia.com/
+https://www.investopedia.com/
+https://www.chartguys.com/
+https://howtotrade.com/
+https://www.learntotradethemarket.com/forex-trading-course
+https://www.babypips.com/
 # Computer science for begineers
 
 https://www.advanced-ict.info/
