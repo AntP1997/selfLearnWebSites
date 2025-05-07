@@ -7,6 +7,8 @@
 # Computer science wiki
 
 https://computersciencewiki.org/index.php/Welcome
+# Algorithms and data structure
+https://sp21.datastructur.es/
 
 # runestone academy for math and computer science
 
