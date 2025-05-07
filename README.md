@@ -13,6 +13,8 @@ https://cs61a.org/
 # runestone academy for math and computer science
 
 https://landing.runestone.academy/
+# self taught programmer
+https://bigmachine.io/
 
 # Technical analysis
 https://www.coursera.org/courses?query=trading
