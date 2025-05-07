@@ -8,6 +8,10 @@
 
 https://computersciencewiki.org/index.php/Welcome
 
+# runestone academy for math and computer science
+
+https://landing.runestone.academy/
+
 # Technical analysis
 https://www.coursera.org/courses?query=trading
 https://academy.avatrade.com/
