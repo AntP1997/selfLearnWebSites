@@ -24,6 +24,9 @@ https://landing.runestone.academy/
 # self taught programmer
 https://bigmachine.io/
 --
+# mental math
+mentalmathpro.com
+---
 # Technical analysis
 https://www.coursera.org/courses?query=trading
 --
