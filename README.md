@@ -24,6 +24,7 @@ https://landing.runestone.academy/
 # self taught programmer
 https://bigmachine.io/
 --
+
 # mental math
 mentalmathpro.com
 ---
@@ -87,7 +88,8 @@ https://mathbitsnotebook.com/
 --
 https://www.onlinemathlearning.com
 --
-
+https://maxima.sourceforge.io/download.html
+--
 https://www.proprep.com/
 --
 https://www.chilimath.com/
