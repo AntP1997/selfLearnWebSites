@@ -77,6 +77,8 @@ https://libretexts.org/platforms/libraries/
 https://www.makeareadme.com/
 ---
 # math books
+The College Prep School on youtube.com
+--
 
 https://www.mymathsguy.com
 --
