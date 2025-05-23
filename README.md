@@ -79,7 +79,8 @@ https://www.makeareadme.com/
 # math books
 The College Prep School on youtube.com
 --
-
+https://www.youtube.com/watch?v=puDKTnE2Daw&list=PLgIi4lM74yW0ChmzTdT1w5ruCnqP0bv3J&index=25 word problems
+--
 https://www.mymathsguy.com
 --
 https://www.greenemath.com/
