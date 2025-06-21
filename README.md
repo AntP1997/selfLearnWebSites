@@ -10,6 +10,8 @@ https://computersciencewiki.org/index.php/Welcome
 -----------------------------------------------------
 # computer robotic engineering 
 https://www.udacity.com/course/robotics-software-engineer--nd209
+
+https://github.com/felipenmartins/ROS_projects_Udacity?tab=readme-ov-file
 -------------
 # Algorithms and data structure
 https://sp21.datastructur.es/
