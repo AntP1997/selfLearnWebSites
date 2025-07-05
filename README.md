@@ -12,7 +12,7 @@ https://computersciencewiki.org/index.php/Welcome
 Engineering Tech stuff
 ------------------------
 https://toptechboy.com/
-
+---
 # computer robotic engineering 
 https://www.udacity.com/course/robotics-software-engineer--nd209
 
@@ -36,7 +36,9 @@ https://bigmachine.io/
 --
 # Drawing 
 https://excalidraw.com/
------
+
+----------------
+
 # mental math
 mentalmathpro.com
 ---
@@ -89,6 +91,10 @@ https://libretexts.org/platforms/libraries/
 https://www.makeareadme.com/
 ---
 # math books
+
+https://plus.pearson.com/home
+----
+https://tutorial.math.lamar.edu/
 The College Prep School on youtube.com
 --
 https://www.youtube.com/watch?v=puDKTnE2Daw&list=PLgIi4lM74yW0ChmzTdT1w5ruCnqP0bv3J&index=25 word problems
