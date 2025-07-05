@@ -8,6 +8,11 @@
 https://www.codebreakthrough.com/cpp-mastery
 https://computersciencewiki.org/index.php/Welcome
 -----------------------------------------------------
+#
+Engineering Tech stuff
+------------------------
+https://toptechboy.com/
+
 # computer robotic engineering 
 https://www.udacity.com/course/robotics-software-engineer--nd209
 
