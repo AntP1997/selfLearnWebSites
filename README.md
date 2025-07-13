@@ -8,7 +8,10 @@
 https://www.codebreakthrough.com/cpp-mastery
 https://computersciencewiki.org/index.php/Welcome
 -----------------------------------------------------
-#
+# Electronics
+https://ohmify.com/
+-------------
+
 Engineering Tech stuff
 ------------------------
 https://toptechboy.com/
