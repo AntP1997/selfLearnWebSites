@@ -29,6 +29,7 @@ https://www.udacity.com/course/robotics-software-engineer--nd209
 https://github.com/felipenmartins/ROS_projects_Udacity?tab=readme-ov-file
 -------------
 # Algorithms and data structure
+------
 https://sp21.datastructur.es/
 --
 https://neetcode.io/
@@ -38,21 +39,25 @@ https://leetcode.com/explore/learn
 https://cs61a.org/
 --
 # runestone academy for math and computer science
-
+---------
 https://landing.runestone.academy/
 ----
 # self taught programmer
+-----
 https://bigmachine.io/
 --
-# Drawing 
+# Drawing
+------
 https://excalidraw.com/
 
 ----------------
 
 # mental math
+-----
 mentalmathpro.com
 ---
 # Technical analysis
+-------
 https://www.coursera.org/courses?query=trading
 --
 https://academy.avatrade.com/
@@ -70,11 +75,11 @@ https://www.learntotradethemarket.com/forex-trading-course
 https://www.babypips.com/
 --
 # Computer science for begineers
-
+--------
 https://www.advanced-ict.info/
 --
 # physics
- 
+ --------------
  https://www.myphysicslab.com/
  ----------------------------------
  https://www.physicslab.org/
@@ -82,26 +87,29 @@ https://www.advanced-ict.info/
  https://physicslab.app/p/physics-1
  
 # Business
+----------
 https://www.luthermaddy.com/IntroToBusiness.php
 --
 # ethical hacking
+------------
 http://www.catb.org/jargon/html/H/hacker.html
 ----
 http://www.catb.org/jargon/html/
 --
  [website] (https://jwlaiho.expressions.syr.edu) | 
 # webdevlopment-playground
- https://developer.mozilla.org/en-US/
+----
+https://developer.mozilla.org/en-US/
 ---
 #  all subjects
 https://libretexts.org/platforms/libraries/ 
 ---
 # Read Me 
-
+-------
 https://www.makeareadme.com/
 ---
 # math books
-
+-----------
 https://plus.pearson.com/home
 ----
 https://tutorial.math.lamar.edu/
