@@ -1,24 +1,29 @@
 # Computer science visual algorithm and data struture
- 
  https://visualgo.net/en
 ---------------------------------
  https://csvistool.com/
---
+--------------------
 # Computer science wiki
 https://www.codebreakthrough.com/cpp-mastery
 https://computersciencewiki.org/index.php/Welcome
 -----------------------------------------------------
 # Electronics
+---------
 https://ohmify.com/
 -------------
-
-Engineering Tech stuff
+# Robotic SoftWare engineering
+-------------
+https://kevinwoodrobotics.com/product-category/robotics-projects/
+----
+# Engineering Tech stuff
 ------------------------
 https://toptechboy.com/
----
-# computer robotic engineering 
-https://www.udacity.com/course/robotics-software-engineer--nd209
+---------
 
+# computer robotic engineering 
+--------
+https://www.udacity.com/course/robotics-software-engineer--nd209
+---------
 https://github.com/felipenmartins/ROS_projects_Udacity?tab=readme-ov-file
 -------------
 # Algorithms and data structure
