@@ -165,9 +165,9 @@ codechef.com
 https://physicslab.app/courses
 --
 # WebSites to use for self Study
-
+---------
 self learn any subject at your own pace
-
+------
 https://math.libretexts.org/Bookshelves
 --
 https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011 | Kotlin Bootcamp for Programmers
@@ -255,8 +255,8 @@ https://www.youtube.com/watch?v=Zu5JcxZt_f8&list=PLxNPSjHT5qvsGKsAhirvZn7W73pXhX
 https://www.youtube.com/watch?v=LL8wkskDlbs&list=PL5jc9xFGsL8E12so1wlMS0r0hTQoJL74M | concurrent programming
 --
 https://www.youtube.com/watch?v=Fn0xBsmact4&list=PLvv0ScY6vfd_ocTP2ZLicgqKnvq50OCXM | concurrent programming
---
-needcode.io
+-----
+https://neetcode.io/
 --
 https://www.udemy.com/course/optics-course/?couponCode=KEEPLEARNING
 --
