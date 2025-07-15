@@ -4,6 +4,12 @@
 ---------------------------------
  https://csvistool.com/
 --------------------
+# Mental Math
+-----
+mentalmathpro.com
+---
+https://www.foundation4iit.com/p/vedic-maths.html
+---
 # Computer science wiki
 -----
 https://www.codebreakthrough.com/cpp-mastery
@@ -52,10 +58,6 @@ https://excalidraw.com/
 
 ----------------
 
-# mental math
------
-mentalmathpro.com
----
 # Technical analysis
 -------
 https://www.coursera.org/courses?query=trading
