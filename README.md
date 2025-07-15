@@ -7,6 +7,8 @@
 # Mental Math
 -----
 mentalmathpro.com
+-----
+https://www.mathtrainer.xyz/
 ---
 https://www.foundation4iit.com/p/vedic-maths.html
 ---
