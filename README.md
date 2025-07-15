@@ -244,6 +244,7 @@ https://www.codecademy.com/learn/discrete-math | discrete math
 https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz | discrete math
 --
 https://csprimer.com/how/ |compter science topics
+https://csprimer.com/courses/
 --
 https://physicslab.app/ // learn physics
 --
