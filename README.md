@@ -8,6 +8,9 @@
 http://www.tcpipguide.com/free/t_toc.htm
 # Mental Math
 -----
+# DevOps
+https://devopsbootcamp.osuosl.org/index.html
+---
 mentalmathpro.com
 -----
 # Itskills
