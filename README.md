@@ -7,6 +7,9 @@
 # Networking
 http://www.tcpipguide.com/free/t_toc.htm
 # Mental Math
+# teach your computer science
+https://teachyourselfcs.com/
+---
 -----
 # DevOps
 https://devopsbootcamp.osuosl.org/index.html
