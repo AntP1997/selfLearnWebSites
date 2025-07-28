@@ -12,7 +12,9 @@ mentalmathpro.com
 -----
 https://www.mathtrainer.xyz/
 ---
-
+# learn emmbed programming
+----
+https://fastbitlab.com/
 ---
 https://www.foundation4iit.com/p/vedic-maths.html
 ---
