@@ -17,6 +17,9 @@ https://devopsbootcamp.osuosl.org/index.html
 ---
 mentalmathpro.com
 -----
+# computer scinece topics 
+https://www.youtube.com/@nesoacademy/courses
+-------
 # Itskills
 https://www.netacad.com/
 -----
