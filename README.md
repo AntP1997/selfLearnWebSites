@@ -29,6 +29,11 @@ https://www.mathtrainer.xyz/
 ----
 https://fastbitlab.com/
 ---
+# computer engineering
+
+https://www.nand2tetris.org/
+------
+# mental math
 https://www.foundation4iit.com/p/vedic-maths.html
 ---
 # Computer science wiki
