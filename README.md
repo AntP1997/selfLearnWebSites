@@ -30,7 +30,8 @@ https://www.mathtrainer.xyz/
 https://fastbitlab.com/
 ---
 # computer engineering
-
+https://nandgame.com/
+--------
 https://www.nand2tetris.org/
 ------
 # mental math
