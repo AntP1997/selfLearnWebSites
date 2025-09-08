@@ -12,6 +12,9 @@ https://su25.cs168.io/
 https://teachyourselfcs.com/
 ---
 -----
+# discrete math
+https://allthemath.org/course/discrete-math/
+------
 # DevOps
 https://devopsbootcamp.osuosl.org/index.html
 ---
