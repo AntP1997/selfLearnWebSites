@@ -12,7 +12,16 @@ https://su25.cs168.io/
 https://teachyourselfcs.com/
 ---
 -----
-# discrete math
+# electronics news
+https://www.allaboutcircuits.com/
+# Math
+
+discrete math
+------
+calcworkshop.com
+engineer4free.com
+https://codenmore.github.io/index.html
+greenemath.com
 https://allthemath.org/course/discrete-math/
 ------
 # DevOps
