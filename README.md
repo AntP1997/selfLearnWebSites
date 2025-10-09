@@ -18,6 +18,7 @@ https://www.allaboutcircuits.com/
 
 discrete math
 ------
+https://mathispower4u.com/
 calcworkshop.com
 engineer4free.com
 https://codenmore.github.io/index.html
