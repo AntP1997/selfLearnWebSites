@@ -16,9 +16,10 @@ https://teachyourselfcs.com/
 https://www.allaboutcircuits.com/
 # Math
 
-discrete math
+ math
 ------
 https://mathispower4u.com/
+
 calcworkshop.com
 engineer4free.com
 https://codenmore.github.io/index.html
