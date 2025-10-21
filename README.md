@@ -15,7 +15,7 @@ https://teachyourselfcs.com/
 # electronics news
 https://www.allaboutcircuits.com/
 # Math
-
+https://teachyourselfcs.com/
  math
 ------
 https://mathispower4u.com/
