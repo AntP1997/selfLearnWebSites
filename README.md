@@ -24,6 +24,7 @@ calcworkshop.com
 engineer4free.com
 https://codenmore.github.io/index.html
 greenemath.com
+https://www.onemathematicalcat.org/
 https://allthemath.org/course/discrete-math/
 ------
 # DevOps
@@ -47,8 +48,8 @@ https://fastbitlab.com/
 https://nandgame.com/
 --------
 https://www.nand2tetris.org/
-------
-# mental math
+------ 
+# menta        l math
 https://www.foundation4iit.com/p/vedic-maths.html
 ---
 # Computer science wiki
