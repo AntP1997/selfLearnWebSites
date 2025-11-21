@@ -15,7 +15,8 @@ https://teachyourselfcs.com/
 https://www.flippingphysics.com/
 https://www.youtube.com/@FortheLoveofPhysics/playlists](https://www.youtube.com/@FortheLoveofPhysics
 -----
-# electronics news
+# electronics 
+https://www.circuitlab.com/
 https://www.allaboutcircuits.com/
 # Math
 https://teachyourselfcs.com/
