@@ -11,6 +11,9 @@ https://su25.cs168.io/
 # teach your computer science
 https://teachyourselfcs.com/
 ---
+# physics lover
+https://www.flippingphysics.com/
+https://www.youtube.com/@FortheLoveofPhysics/playlists](https://www.youtube.com/@FortheLoveofPhysics
 -----
 # electronics news
 https://www.allaboutcircuits.com/
