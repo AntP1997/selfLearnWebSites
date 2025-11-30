@@ -4,6 +4,10 @@
 ---------------------------------
  https://csvistool.com/
 --------------------
+https://labex.io/
+---
+https://overthewire.org/wargames/bandit/bandit3.html
+----
 # Networking
 http://www.tcpipguide.com/free/t_toc.htm
 https://su25.cs168.io/
