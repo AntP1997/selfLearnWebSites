@@ -14,6 +14,8 @@ https://dcaclab.com/n | education
 https://www.circuitlab.com/
 ---
 # Networking
+telecommunication = https://www.teracomtraining.com/online-courses.htm
+-
 http://www.tcpipguide.com/free/t_toc.htm
 https://su25.cs168.io/
 # Mental Math
