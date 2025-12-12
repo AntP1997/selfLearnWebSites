@@ -13,6 +13,8 @@ https://dcaclab.com/n | education
 # operating systems
 https://www.youtube.com/@introductiontooperatingsys8608
 
+https://users.ece.utexas.edu/~valvano/Volume1/E-Book/
+
 ---
 
 https://www.circuitlab.com/
