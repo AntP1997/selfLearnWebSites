@@ -10,6 +10,9 @@ https://overthewire.org/wargames/bandit/bandit3.html
 ----
 # Online circuit board
 https://dcaclab.com/n | education
+# operating systems
+https://www.youtube.com/@introductiontooperatingsys8608
+
 ---
 https://www.circuitlab.com/
 ---
