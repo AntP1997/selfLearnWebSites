@@ -14,7 +14,9 @@ https://dcaclab.com/n | education
 https://www.youtube.com/@introductiontooperatingsys8608
 
 ---
+
 https://www.circuitlab.com/
+https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz
 ---
 # computer scinece 
 https://ossu.firebaseapp.com/#/
