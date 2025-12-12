@@ -14,7 +14,8 @@ https://dcaclab.com/n | education
 https://www.circuitlab.com/
 ---
 
-#eletrical engineering 
+# eletrical engineering 
+https://archive.org/details/signalssystems0000oppe
 https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/video_galleries/lecture-videos/
 https://ocw.mit.edu/courses/6-622-power-electronics-spring-2023/
 https://ocw.mit.edu/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/
