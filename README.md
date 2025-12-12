@@ -13,6 +13,12 @@ https://dcaclab.com/n | education
 ---
 https://www.circuitlab.com/
 ---
+
+#eletrical engineering 
+https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/video_galleries/lecture-videos/
+https://ocw.mit.edu/courses/6-622-power-electronics-spring-2023/
+https://ocw.mit.edu/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/
+https://www.coursera.org/learn/electric-power-systems
 # Networking
 telecommunication = https://www.teracomtraining.com/online-courses.htm
 -
