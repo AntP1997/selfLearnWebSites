@@ -17,6 +17,8 @@ https://www.youtube.com/@introductiontooperatingsys8608
 
 https://www.circuitlab.com/
 --
+https://www.youtube.com/watch?v=CAMTBzPd-WI&list=PLDqMkB5cbBA5oDg8VXM110GKc-CmvUqEZ&index=1
+--
 https://www.youtube.com/watch?v=bvEDXDFbM_E&list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5&index=1
 --
 https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz
