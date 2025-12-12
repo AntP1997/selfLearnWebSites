@@ -16,6 +16,7 @@ https://www.youtube.com/@introductiontooperatingsys8608
 https://users.ece.utexas.edu/~valvano/Volume1/E-Book/
 
 ---
+https://ocw.mit.edu/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008/
 
 https://www.circuitlab.com/
 --
