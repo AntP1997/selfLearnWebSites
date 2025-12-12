@@ -13,6 +13,8 @@ https://dcaclab.com/n | education
 ---
 https://www.circuitlab.com/
 ---
+# computer scinece 
+https://ossu.firebaseapp.com/#/
 
 # eletrical engineering 
 https://archive.org/details/signalssystems0000oppe
